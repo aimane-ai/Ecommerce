@@ -1,4 +1,4 @@
-# 🛒 Laravel E-commerce - Giftos
+# 🛒 Laravel E-commerce 
 
 A modern e-commerce website developed with Laravel, Bootstrap, and Stripe for payments.
 
